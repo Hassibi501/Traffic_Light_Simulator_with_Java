@@ -1,0 +1,17 @@
+# Local IDE configuration
+.idea/
+*.iml
+.DS_Store
+
+# Build system caches and output
+.gradle/
+build/
+out/
+
+# Project metadata and documentation artifacts
+*-info.yaml
+*-remote-info.yaml
+task.html
+.courseignore
+GlobalTests.java
+SystemOutput.java
